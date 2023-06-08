@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Este es un repositorio de prueba
+Este es un proyecto e prueba de como crear un repositorio de Github a mi computadora
